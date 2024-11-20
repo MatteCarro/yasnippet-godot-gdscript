@@ -1,0 +1,4 @@
+#insert for set process off
+
+func _ready() -> void:
+  set_process = false
